@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @carlosrc-acc
+/src/backend/database.py      @carlosrc-acc
+/src/backend/routers/auth.py  @carlosrc-acc
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @carlosrc-acc
